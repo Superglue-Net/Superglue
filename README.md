@@ -1,9 +1,9 @@
-Superglue
+SuperGlue
 =========
 
 'Web 2.0' promised that everyone could become a media publisher, but had exactly the opposite result: Today, most people's web content is locked into the proprietary services of only a handful of Internet social media giants. The early Web culture of self-made and self-hosted homepages has almost disappeared.
 
-A major reason for this is that corporate social media systems were much easier to use than classical homepages. Users no longer need to administer servers or upload HTML files. With SuperGlue, we are developing a system that gives back everyone their truly own website. For this purpose, we build on our existing "HotGlue" web application - which makes the creation of web sites as easy as the use of basic text and painting programs -, but improve it so that it no longer needs to run on a central server.
+A major reason for this is that corporate social media systems were much easier to use than classical homepages. Users no longer need to administer servers or upload HTML files. With SuperGlue, we are developing a system that gives back everyone their truly own website. For this purpose, we build on our existing 'HotGlue' (https://github.com/hotglue/hotglue2) web application - which makes the creation of web sites as easy as the use of basic text and painting programs -, but improve it so that it no longer needs to run on a central server.
 
 Usual CMS (Content Management Systems) pose rather heavy requirements onto the hosting platform they are deployed at. For example Wordpress needs a database (MySQL), server-side parser (PHP) and a serious HTTP server such as Apache. Additionally, all of the web-content is processed on every request (or less often if caching proxy/accelerator is used), which requires a fair bit of processing power for every page hit.
 
